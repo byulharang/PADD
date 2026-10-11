@@ -4,7 +4,7 @@
 
 <div>
   <!-- 배지 링크 영역: URL이 나오면 # 대신 해당 주소 -->
-  <a href="#"><img src="https://img.shields.io/badge/Paper-green?style=flat-square" alt="Paper"></a>
+  <a href="https://www.isca-archive.org/interspeech_2026/kim26m_interspeech.pdf"><img src="https://img.shields.io/badge/Paper-green?style=flat-square" alt="Paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/arXiv-2606.xxxxx-red?style=flat-square" alt="arXiv"></a>
   <a href="#"><img src="https://img.shields.io/badge/Project_Page-green?style=flat-square" alt="Project Page"></a>
 </div>
@@ -24,9 +24,12 @@
 
 ## 📌 Citation
 ```bibtex
-@inproceedings{park2026physics,
-  title={Physics-Aware Deepfake Detection via Distance-Speech Consistency},
-  author={Park, Min-woo and Co-author, Firstname and Co-author, Lastname},
-  booktitle={Proceedings of the International Seminar on Speech Production (ISSP) / Interspeech},
-  year={2026}
+@inproceedings{kim2026physics,
+  title     = {Physics-Aware Deepfake Detection via Distance--Speech Consistency},
+  author    = {Kim, Kyeongrae and Kim, Sung-Bin and Oh, Hyun-Bin and Oh, Tae-Hyun},
+  booktitle = {Proc. Interspeech 2026},
+  year      = {2026},
+  pages     = {2424--2428},
+  doi       = {10.21437/Interspeech.2026-1541}
 }
+```
